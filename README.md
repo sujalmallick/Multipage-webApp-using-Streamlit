@@ -3,7 +3,7 @@
 A clean, modular **multipage web app** built using **Streamlit**. This app includes multiple views and a smart chatbot powered by free LLM APIs like OpenRouter.
  Features
 
-**AI Chatbot** (e.g., Mistral, LLaMA via OpenRouter API)
+**AI Chatbot** (Mistral 7 instrct OpenRouter API)
 **Multipage Navigation** using `streamlit-multipage`
 Clean UI and responsive layout
 Secure API key management using `.streamlit/secrets.toml`
